@@ -55,6 +55,7 @@ hi SpecialKey                guifg=#777777 gui=NONE cterm=NONE ctermfg=243
 " ----
 " directory names and other special names in listings
 hi Directory                 guifg=#A5C261 gui=NONE ctermfg=107 cterm=NONE
+hi BlingHilight              guifg=black gui=none guibg=#87d7ff ctermfg=black ctermbg=117 cterm=NONE
 
 " Popup Menu
 " ----------
